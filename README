@@ -1,3 +1,7 @@
+MODIFIED COPY
+
+This is a modified copy of FreeType 2.14.3, maintained by Barely Soldered at https://github.com/Barely-Soldered/freetype (tag VER-2-14-3-bs.1) for its own projects: rebuilt for meson alone, with platforms and components it does not use removed and the tree restructured. It is not the original software, which is at https://gitlab.freedesktop.org/freetype/freetype. The licence is unchanged; see LICENSE.TXT and docs/FTL.TXT.
+
 FreeType 2.14.3
 ===============
 
